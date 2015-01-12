@@ -17,6 +17,7 @@
 
 #more ignore files.
 database.yml
+secrets.yml
 doc/
 *.swp
 *~
